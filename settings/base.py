@@ -14,7 +14,8 @@ BASE_APPS = [
 ]
 
 LOCAL_APPS = [    
-    'profiles.apps.ProfilesConfig',  
+    'profiles.apps.ProfilesConfig',
+    'wallets.apps.WalletsConfig',  
 ]
 
 THIRD_APPS = [    
